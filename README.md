@@ -28,4 +28,4 @@ npm run lint
 
 ## Credits
 
-Vueschool.io Lessons - (https://vueschool.io/articles/vuejs-tutorials/how-to-create-a-vue-js-3-tool-tip-plugin).
+[Vueschool.io Lessons](https://vueschool.io/articles/vuejs-tutorials/how-to-create-a-vue-js-3-tool-tip-plugin).
